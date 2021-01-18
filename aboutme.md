@@ -6,8 +6,8 @@ subtitle: Why you'd want to chat with me
 
 My name is Vaishnavi Kapoor.
 
-- My interests include GIS, environmental management, disaster management
-- I'm extremely loyal to my family
+- My interests include GIS, environmental management, disaster management.
+
 
 What else do you need?
 
