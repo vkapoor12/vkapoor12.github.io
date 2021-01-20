@@ -1,1 +1,14 @@
+---
+layout: post
+title: Geographic Information System (GIS) sample datasets
+tags: [gis, data]
+---
+1. Forest CoverType dataset:https://archive.ics.uci.ehttps://archive.ics.uci.edu/ml/datasets/Crop+mapping+using+fused+optical-radar+data+set
+du/ml/datasets/covertype
+2. 3D road network with highly accurate elevation information (+-20cm) from Denmark used in eco-routing and fuel/Co2-estimation routing algorithms: https://archive.ics.uci.edu/ml/datasets/3D+Road+Network+(North+Jutland,+Denmark)
+3. Combining optical and PolSAR remote sensing images offers a complementary data set with a significant number of temporal, spectral, textural, and polarimetric features for cropland classification : https://archive.ics.uci.edu/ml/datasets/Crop+mapping+using+fused+optical-radar+data+set
+4. The dataset is a multilabel classification problem. The goal is to predict the presence of amphibians species near the water reservoirs based on features obtained from GIS systems and satellite images : https://archive.ics.uci.edu/ml/datasets/Amphibians
+5. Multi-spectral values of pixels in 3x3 neighbourhoods in a satellite image, and the classification associated with the central pixel in each neighbourhood : https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite)
+
+
 
